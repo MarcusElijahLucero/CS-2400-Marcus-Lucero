@@ -1,1 +1,4 @@
-# CS-2400-Marcus-Lucero
+Marcus Elijah Lucero
+
+
+OBS Studio
